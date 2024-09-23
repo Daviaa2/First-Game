@@ -1,0 +1,21 @@
+# Godot specific
+/.import/
+.export/
+*.godot
+*.tscn
+*.gd
+*.gdignore
+*.pck
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Build directories
+bin/
+build/
